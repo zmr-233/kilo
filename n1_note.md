@@ -1,3 +1,4 @@
+Hello
 E的结构似乎是用来存放整个编辑器的基础信息，比如：
 > numrows - 用来存放行数
 > row[] 每一行是使用这个数组实现的存放，在editorRowsToString出现了如下的语句：
